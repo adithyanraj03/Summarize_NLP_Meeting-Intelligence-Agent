@@ -42,8 +42,7 @@ The system intelligently fetches participant emails from synced Excel files, Goo
 - **Cross-Platform Support**: Works with various meeting platforms
 
 ## 🏗️ System Architecture
-
-![Project Data Flow](https://raw.githubusercontent.com/adithyanraj03/Summarize_NLP_Meeting-Intelligence-Agent/main/meeting-minutes-dataflow-enhanced.svg)
+![Project Data Flow](https://github.com/user-attachments/assets/1c17f156-e8ff-41ba-9b51-28cb165763fd)
 
 The application follows a three-stage pipeline:
 1. **Audio Capture & Conversion**: API converts speech to text
