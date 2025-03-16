@@ -9,7 +9,7 @@ from email.mime.application import MIMEApplication
 
 # Email configuration
 sender_email = "adithyanraj150@gmail.com"
-sender_password = "wwln aqlf gcxn uszd"  # Replace with your email password
+sender_password = "**** **** **** ****"  # Replace with your email password
 email_subject = "Summmary and minutes of meeting"
 email_body = "Summary , Meeting Transcript is attached below"
 
