@@ -122,6 +122,9 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 
 ![image](https://github.com/user-attachments/assets/14daab82-2506-4d0a-87ba-3c20c9fc555c)
 
+
+![image](https://github.com/user-attachments/assets/8b2a0821-aa87-48cd-857a-660854d70ce2)
+
 ![image](https://github.com/user-attachments/assets/b12ac937-99a1-48e4-9cd9-41b383adfc37)
 
 ### Resending to Additional Recipients
