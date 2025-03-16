@@ -14,3 +14,4 @@ pip~=23.3.1
 openai==0.28
 Pillow>=10.3.0
 PyQt5~=5.15.10
+nltk>=3.9
