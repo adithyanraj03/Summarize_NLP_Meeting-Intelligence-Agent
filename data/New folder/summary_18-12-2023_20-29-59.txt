@@ -1,0 +1,1 @@
+Recording a video conference is part of the enterprise version of G Suite and must be enabled by your technology people in the G Suite Admin console. Once enabled, you can click the three dots button to start and stop recording. The recording is saved to your Google Drive and you can share it with others using links or downloading it to your computer.

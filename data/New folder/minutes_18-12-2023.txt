@@ -1,0 +1,11 @@
+Meeting Minutes: 
+• Purpose of the meeting was to explain the different features and functionalities of the Python collection data types: lists, stupes, dictionaries, and sets.
+• Explanation of list methods such as append and comprehend. 
+• How to use tupples.
+• Explanation of arrays:
+    o How to store multiple values in single variables.
+    o Element locations called offsets/indexes
+    o Represent basic values such as characters, integers, and floating point numbers
+• Explanation of when to use lists over arrays; lists are more flexible and can store heterogeneous data types. 
+• Introduction of modules/packages such as Mumpi.
+• Review of input forms and strings.

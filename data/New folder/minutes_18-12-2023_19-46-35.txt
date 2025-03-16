@@ -1,0 +1,14 @@
+* Meeting Minutes: 
+* - Eric is discussing Google Meet and how to record your conference. 
+* - Recording a Google Meet video conference is part of the Enterprise version of G Suite, and it may not be available for all Google accounts. 
+* - Google has made this premium feature available free due to COVID-19 and the fact that many educators are teaching remotely. 
+* - Technology administrators need to turn on this feature in the G Suite Admin console. 
+* - To start recording, click the three dots button in the bottom right corner and choose “Record Meeting.” 
+* - Let other attendees know that the meeting is being recorded. 
+* - Whoever is speaking or presenting is being recorded. 
+* - To stop recording, click the three dots button again and choose “Stop Recording.” 
+* - The recording will save to the Google Drive recordings. 
+* - An email with the link to the recording will be sent. 
+* - To share the video, go to Google Drive, the Meet recordings folder, and share/post the video. 
+* - To allow anyone with the link to view the video, share the link from Google Drive. 
+* - To download the video, right-click on the video and choose “download” or select the video and go to the three dots button in Google Drive.

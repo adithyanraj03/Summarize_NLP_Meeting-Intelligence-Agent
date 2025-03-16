@@ -1,0 +1,3 @@
+The feature is part of the enterprise version of G Suite and must be enabled in the G Suite Admin Console. Once enabled, start a conference and click the three dots button in the bottom right corner to choose record meeting. Inform attendees that the meeting is being recorded. Then click accept and, once you're done, click the three dots button again and select Stop Recording. The recording is then saved to Google Drive and videos can be shared through links, downloaded, or shared to Google Classroom with a few steps.
+
+Google Meet now includes the ability to record video conferences, though it may only be available for Enterprise versions of G Suite. This feature must be enabled by technology administrators in the G Suite Admin Console and has been made free by Google

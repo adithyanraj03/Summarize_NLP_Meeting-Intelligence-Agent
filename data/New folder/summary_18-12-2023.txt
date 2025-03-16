@@ -1,0 +1,1 @@
+This talks about collections such as lists, stupes, dictionaries, and sets and how different operations can be applied on each of these collections. It also mentions about Python arrays, the differences between lists and arrays, and how they can be used to store different data values and use modules such as Mumpi.

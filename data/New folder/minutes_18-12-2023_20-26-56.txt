@@ -1,0 +1,9 @@
+* Meeting Minutes: 
+* - Google Meet recording feature is part of the enterprise version of G Suite 
+* - It may not be available for your Google account, however Google has made this feature available free due to COVID-19 
+* - Technology administrators need to turn the recording feature on in G Suite Admin console 
+* - To start the recording, start up a Google Meet, click the three dots button down in the bottom right corner and choose “Record Meeting”, click “Accept” to begin 
+* - Let other attendees know the meeting is recording 
+* - Click the three dots button again and choose “Stop Recording” when done 
+* - Link to the recording will be sent through email, it may take a few minutes to show up 
+* - Video can be shared through understanding others, Google Classroom, Google Drive, social media, URL Shortener, or QR code

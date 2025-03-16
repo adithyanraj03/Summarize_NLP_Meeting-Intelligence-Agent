@@ -1,0 +1,3 @@
+To do this, you must have the enterprise version of G Suite, and it must be enabled for you by your technology people. Recordings are saved to your Google Drive, and can be shared with people in your school or the general public. They can be shared in various ways, such as social media or email, with a URL shortener, or a QR code.
+
+Google Meet now allows users with the enterprise version of G Suite to record their video conferences, enabled by tech administrators in the G Suite Admin Console. The feature is temporarily available for free due to the COVID-19 situation. To record, you start the meeting, let other participants know, click the three dots and select 'record meeting' to start, then stop

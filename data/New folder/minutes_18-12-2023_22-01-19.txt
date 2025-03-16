@@ -1,0 +1,6 @@
+* Meeting Minutes:
+* • Purpose of meeting was to explain the different kinds of collections such as list, stupe, dictionary and set, and when and how to use them
+* • Explained how to access and store different values (e.g. characters, integers, floating points) within an array
+* • Discussed how to use Lists, as they are more flexible than arrays and can store a range of heterogeneous data types
+* • Additionally, discussed the use of modules/packages such as NumPy to simplify data operations
+* • Concluded with a review of the syntax and how to use strings when dealing with inputs

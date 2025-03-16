@@ -1,0 +1,16 @@
+pandas==2.1.1
+future==0.18.3
+sounddevice==0.4.6
+PyAudio==0.2.13
+pydub==0.25.1
+soundcard==0.4.2
+soundfile==0.12.1
+ffmpeg-python
+#winget install ffmpeg
+openpyxl
+git+https://github.com/openai/whisper.git
+setuptools~=65.5.0
+pip~=23.3.1
+openai==0.28
+Pillow~=10.0.0
+PyQt5~=5.15.10

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" style="background-color: #f8f9fa;">
+  <!-- Definitions for gradients and shadows -->
+  <defs>
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a365d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c5282;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="boxGradient1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ebf8ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bee3f8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="boxGradient2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e6fffa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b2f5ea;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="boxGradient3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fff5f5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fed7d7;stop-opacity:1" />
+    </linearGradient>
+    <filter id="drop-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" />
+      <feOffset dx="2" dy="2" result="offsetblur" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Title with gradient background -->
+  <rect x="310" y="5" width="300" height="50" rx="5" ry="5" fill="url(#titleGradient)" />
+  <text x="460" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#ffffff">DATA FLOW</text>
+  <line x1="310" y1="60" x2="610" y2="60" stroke="#4299e1" stroke-width="3" />
+  
+  <!-- Meeting Label -->
+  <text x="80" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="start" fill="#2c5282">Meeting</text>
+  
+  <!-- First Component Box -->
+  <rect x="20" y="100" width="180" height="180" fill="url(#boxGradient1)" stroke="#4299e1" stroke-width="2" rx="15" ry="15" filter="url(#drop-shadow)" />
+  
+  <!-- Speech to Text Component -->
+  <rect x="35" y="140" width="150" height="100" fill="#ffffff" stroke="#4299e1" stroke-width="1" rx="5" ry="5" />
+  <text x="110" y="170" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#2c5282">API converts</text>
+  <text x="110" y="200" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" fill="#2c5282">Speech to text</text>
+  
+  <!-- First Arrow -->
+  <polygon points="340,190 340,160 390,190 340,220 340,190" fill="#4299e1" stroke="#2c5282" stroke-width="1.5" />
+  <line x1="200" y1="190" x2="340" y2="190" stroke="#4299e1" stroke-width="2" />
+  <text x="270" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c5282">TEXT File</text>
+  
+  <!-- Middle Component -->
+  <rect x="410" y="140" width="200" height="100" fill="url(#boxGradient2)" stroke="#38b2ac" stroke-width="2" rx="5" ry="5" filter="url(#drop-shadow)" />
+  <text x="510" y="170" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#285e61">Using Fine-Tuned GPT-2</text>
+  <text x="510" y="200" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" fill="#285e61">text to minutes</text>
+  
+  <!-- Second Arrow -->
+  <polygon points="690,190 690,160 740,190 690,220 690,190" fill="#38b2ac" stroke="#285e61" stroke-width="1.5" />
+  <line x1="610" y1="190" x2="690" y2="190" stroke="#38b2ac" stroke-width="2" />
+  <text x="650" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#285e61">TEXT File</text>
+  
+  <!-- Mail System Component -->
+  <rect x="750" y="140" width="200" height="140" fill="url(#boxGradient3)" stroke="#f56565" stroke-width="2" rx="5" ry="5" filter="url(#drop-shadow)" />
+  <text x="850" y="170" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#c53030"> Automated Mail System </text>
+  <text x="840" y="200" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#c53030">Sends processed text</text>
+  <text x="851" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#c53030">from LLM to all recipeints</text>
+  <text x="821" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#c53030">[retrieved mails]</text>
+  
+  <!-- Bottom Curved Arrow -->
+  <path d="M 100,300 C 100,350 350,350 730,300" fill="none" stroke="#4299e1" stroke-width="3" stroke-linecap="round" />
+  
+  <!-- Email Label with button style -->
+  <rect x="300" y="360" width="200" height="40" rx="20" ry="20" fill="#3182ce" filter="url(#drop-shadow)" />
+  <text x="400" y="385" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Get Participants Gmails</text>
+</svg>
