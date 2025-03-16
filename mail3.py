@@ -7,7 +7,7 @@ from datetime import datetime
 current_date = datetime.now().strftime('%d-%m-%Y')
 # Email configuration
 sender_email = "abc@gmail.com"  # Enter your email
-sender_password = "wwwn aqlf gcxn uuuu"  # Enter your app password
+sender_password = "*** *** *** uuuu"  # Enter your app password
 
 # Read the email subject
 with open(f"data/title_{current_date}.txt", "r") as email_content_file:

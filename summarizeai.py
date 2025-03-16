@@ -2,7 +2,7 @@ import openai
 from datetime import datetime
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = "****************" #Enter your openai api key
 openai.api_key = api_key
 
 # Input and output files
