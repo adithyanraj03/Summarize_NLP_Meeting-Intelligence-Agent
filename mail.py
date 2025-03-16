@@ -8,7 +8,7 @@ from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 
 # Email configuration
-sender_email = "adithyanraj150@gmail.com"
+sender_email = "adithyanraj150@gmail.com" # Replace with your mail ID
 sender_password = "**** **** **** ****"  # Replace with your email password
 email_subject = "Summmary and minutes of meeting"
 email_body = "Summary , Meeting Transcript is attached below"
