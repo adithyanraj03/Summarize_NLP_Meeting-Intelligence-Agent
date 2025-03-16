@@ -161,7 +161,7 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3). This
 - You can modify and distribute the software
 - Commercial use requires licensing from the original authors
 
-For full license details, see the LICENSE file in the repository.
+For full license details, see the [LICENSE](https://github.com/adithyanraj03/Summarize_NLP_Meeting-Intelligence-Agent/blob/main/LICENSE) file 
 
 ## 👨‍💻 Contributors
 
