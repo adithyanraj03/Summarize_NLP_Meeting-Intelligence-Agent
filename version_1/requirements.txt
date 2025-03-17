@@ -3,7 +3,7 @@ future==0.18.3
 sounddevice==0.4.6
 PyAudio==0.2.13
 pydub==0.25.1
-nltk==3.8.1
+nltk>=3.9
 soundcard==0.4.2
 soundfile==0.12.1
 transformers[torch]
